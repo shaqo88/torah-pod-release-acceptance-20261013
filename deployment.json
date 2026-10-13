@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "target": "github-pages",
-  "revision": "a7153669a5bbfaa5a8a943a266930a8842b10e5e",
-  "deployed_at": "2026-10-13T14:09:30.036886Z",
-  "run_id": 2026101301,
+  "revision": "8d19528267bb37131bf850199622443a97f9c6bb",
+  "deployed_at": "2026-10-13T14:15:41.206239Z",
+  "run_id": 2026101304,
   "run_url": "",
-  "release_id": "dbb36e44b1852f614f9530c4ebfe6d164889de64e40a9eaabed132dd93059a56",
-  "payload_digest": "0ef9bfb6726626eb354e3e1db79dc55a6ff9d933f0931af42983e6222783e16a"
+  "release_id": "b12e77f0e3cac57ff6a7e336310bc67fcef8597aaebcc52a2265c46f1d9158f1",
+  "payload_digest": "e3c8bc10fec2809f4c1fdaa30e0deb1592d79309074277edbd19f03cbb196e84"
 }
